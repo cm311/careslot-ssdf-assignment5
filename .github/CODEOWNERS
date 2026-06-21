@@ -1,0 +1,3 @@
+# .github/CODEOWNERS
+/careslot/auth/ @security-lead
+/careslot/api/ @security-lead @backend-team
