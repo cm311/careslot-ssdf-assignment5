@@ -1,0 +1,10 @@
+NAME                  VERSION   TYPE                             
+Python                3.12.10   binary         (+1 duplicate)    
+Simple Launcher       1.1.0.14  binary         (+10 duplicates)  
+actions/checkout      v4        github-action                    
+actions/setup-python  v5        github-action                    
+asgiref               3.11.1    python         (+1 duplicate)    
+django                6.0.6     python         (+1 duplicate)    
+pip                   25.0.1    python                           
+sqlparse              0.5.5     python         (+1 duplicate)    
+tzdata                2026.2    python         (+1 duplicate)

@@ -30,3 +30,6 @@ Thumbs.db
 # Release artifacts, optional
 release/*.zip
 release/*.sig
+
+cosign.key
+cosign.exe

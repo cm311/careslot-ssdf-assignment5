@@ -1,0 +1,6 @@
+"Package","InstalledVersion","Vulnerability","Severity","CVSS","FixedIn"
+"Python","3.12.10","CVE-2025-4517","Critical","9.4","3.9.23, 3.10.18, 3.11.13, 3.12.11, 3.13.4, 3.14.0b3"
+"Python","3.12.10","CVE-2025-4517","Critical","9.4","3.9.23, 3.10.18, 3.11.13, 3.12.11, 3.13.4, 3.14.0b3"
+"Python","3.12.10","CVE-2026-6100","Critical","9.1",""
+"Python","3.12.10","CVE-2026-6100","Critical","9.1",""
+"Python","3.12.10","CVE-2026-3298","High","8.8",""
